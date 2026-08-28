@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "description": "Mace.VIP Texture Pack",
+    "min_format": 75,
+    "max_format": 1000
+  },
+  "overlays": {
+    "entries": [
+      {
+        "min_format": 84,
+        "max_format": 87,
+        "directory": "overlay_26_1"
+      },
+      {
+        "min_format": 88,
+        "max_format": 1000,
+        "directory": "overlay_26"
+      }
+    ]
+  }
+}
